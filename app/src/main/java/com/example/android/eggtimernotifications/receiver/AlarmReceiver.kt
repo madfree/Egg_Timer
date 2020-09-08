@@ -41,9 +41,6 @@ class AlarmReceiver: BroadcastReceiver() {
             context.getString(R.string.eggs_ready).toString(),
             context
         )
-
-
-
     }
 
 }
